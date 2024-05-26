@@ -1,0 +1,9 @@
+변수 name에 이름, age에 나이를 입력 받아 출생 년도를 계산하는 프로그램을 작성하라. 
+(단, 현재 2020년, 한국 나이)
+
+[입출력예시]
+Sumin                       ->입력
+My name is Sumin.
+24                            ->입력
+I am 24 years old.
+Sumin's birth year is 1997.
